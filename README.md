@@ -1,2 +1,2 @@
 # Curriculo
-Web Currículo
+Projeto de Web Currículo
