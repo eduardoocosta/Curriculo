@@ -3,7 +3,8 @@
 
 ![tela do sistema](Curr%C3%ADculo.png)
 ## Descrição do Projeto
-<h2>Currículo desenvolvido nas aulas de lingua portuguesa como gênero textual, também nas aulas de interioridades aprendemos as hards e softs skiils.<h2>
+<h2>Currículo desenvolvido nas aulas de lingua portuguesa como gênero textual, também nas aulas de interioridades aprendemos as hards e softs skiils, desenvolvemos esse currículo também nas aulas de Fundamentos de Desenvolvimento Web com HTML.<h2>
+
 
 ## Tecnologias utilizadas
 <h2>HTML5,CSS,Git Hub e Vscode<h2>
